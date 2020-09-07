@@ -1,0 +1,12 @@
+E:\SmartCode\ApiCallingApp\ApiCallingLibrary\bin\Debug\ApiCallingLibrary.dll.config
+E:\SmartCode\ApiCallingApp\ApiCallingLibrary\bin\Debug\ApiCallingLibrary.dll
+E:\SmartCode\ApiCallingApp\ApiCallingLibrary\bin\Debug\ApiCallingLibrary.pdb
+E:\SmartCode\ApiCallingApp\ApiCallingLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\SmartCode\ApiCallingApp\ApiCallingLibrary\bin\Debug\System.Net.Http.Formatting.dll
+E:\SmartCode\ApiCallingApp\ApiCallingLibrary\bin\Debug\Newtonsoft.Json.xml
+E:\SmartCode\ApiCallingApp\ApiCallingLibrary\bin\Debug\System.Net.Http.Formatting.xml
+E:\SmartCode\ApiCallingApp\ApiCallingLibrary\obj\Debug\ApiCallingLibrary.csprojAssemblyReference.cache
+E:\SmartCode\ApiCallingApp\ApiCallingLibrary\obj\Debug\ApiCallingLibrary.csproj.CoreCompileInputs.cache
+E:\SmartCode\ApiCallingApp\ApiCallingLibrary\obj\Debug\ApiCallingLibrary.csproj.CopyComplete
+E:\SmartCode\ApiCallingApp\ApiCallingLibrary\obj\Debug\ApiCallingLibrary.dll
+E:\SmartCode\ApiCallingApp\ApiCallingLibrary\obj\Debug\ApiCallingLibrary.pdb
